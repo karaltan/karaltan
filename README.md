@@ -4,12 +4,19 @@
 
 
 - 🔭 I’m currently working in Sabancı M.TA.L http://sabancimtal.meb.k12.tr/
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with Flutter
+- 🌱 I’m currently learning {Flutter}
+- 👯 I’m looking to collaborate on {Flutter}
+- 🤔 I’m looking for help with {Flutter}
 
 ## Eş, Baba, Öğrenci, Öğretmen!!
+### Connect with me:
 
+[<img align="left" alt="https://karaltan.wordpress.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="karaltan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="karaltan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="altan-karaalp-0a85875b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=karaltan&show_icons=true&theme=gradient) 
 
