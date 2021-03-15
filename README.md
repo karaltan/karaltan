@@ -17,4 +17,5 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/karaltan/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-square&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@karaltan) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-square&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://karaltan.wordpress.com/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/karaltan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%karaltan&screen_name=karaltan)
