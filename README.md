@@ -16,8 +16,7 @@
 [<img align="left" alt="karaltan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCtOmBZ3P8XEJ8wGhXITsQqw)
 [<img align="left" alt="karaltan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/karaltan)
 [<img align="left" alt="karaltan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/altan-karaalp-0a85875b/)
-
-<br />
+<br /><br />
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=karaltan&show_icons=true&theme=gradient) 
 
