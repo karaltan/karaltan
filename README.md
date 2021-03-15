@@ -1,8 +1,8 @@
-### Hi there 👋
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+### Merhaba 👋
+[![GitHub forks](https://img.shields.io/github/forks/karaltan/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/karaltan/StrapDown.js/network/)
+[![GitHub stars](https://img.shields.io/github/stars/karaltan/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/karaltan/StrapDown.js/stargazers/)
 
-**karaltan/karaltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **karaltan/karaltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 - 🔭 I’m currently working in Sabancı M.TA.L http://sabancimtal.meb.k12.tr/
