@@ -10,7 +10,7 @@
 
 ## Eş, Baba, Öğrenci, Öğretmen!!
 
-### Connect with me:
+### Sosyal Medya Hesaplarım:
 
 [<img align="left" alt="karaltan.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karaltan.wordpress.com/)
 [<img align="left" alt="karaltan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCtOmBZ3P8XEJ8wGhXITsQqw)
