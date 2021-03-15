@@ -1,6 +1,4 @@
 ### Merhaba 👋
-[![GitHub forks](https://img.shields.io/github/forks/karaltan/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/karaltan/StrapDown.js/network/)
-[![GitHub stars](https://img.shields.io/github/stars/karaltan/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/karaltan/StrapDown.js/stargazers/)
 
 <!-- **karaltan/karaltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
