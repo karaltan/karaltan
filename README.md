@@ -13,6 +13,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=karaltan&show_icons=true&theme=gradient) 
+
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/karaltan/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-square&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@karaltan) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-square&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://karaltan.wordpress.com/)
