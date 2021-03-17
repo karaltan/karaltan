@@ -3,7 +3,7 @@
 <!-- **karaltan/karaltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working in Sabancı M.TA.L http://sabancimtal.meb.k12.tr/
+- 🔭 I’m currently working AS A TEACHER in Sabancı M.TA.L http://sabancimtal.meb.k12.tr/
 - 🌱 I’m currently learning {Flutter}
 - 👯 I’m looking to collaborate on {Flutter}
 - 🤔 I’m looking for help with {Flutter}
