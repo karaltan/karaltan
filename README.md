@@ -1,5 +1,5 @@
 ### Merhaba 👋
-Bu repoda meslek lisesi düzeyindeki bilişim meslek dersleri notlarımı tutmaktayım (ara ara güncellenmektedir). Öğrencilerime ve sizlere faydalı olmasını umuyorum. Yararlandığım kaynakları kodların arasında yazmaya çalıştım.
+## Bu repoda meslek lisesi düzeyindeki bilişim meslek dersleri notlarımı tutmaktayım (ara ara güncellenmektedir). Öğrencilerime ve sizlere faydalı olmasını umuyorum. Yararlandığım kaynakları kodların arasında yazmaya çalıştım.
 <!-- **karaltan/karaltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
