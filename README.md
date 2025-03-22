@@ -5,7 +5,7 @@
 
 - 🔭 I’m looking for help with {Ai}
 - 🌱 I’m currently learning {Ai}
-- 🤔 I'm Phd student ?!
+- 🤔 I'm PhD student ?!
 
 ## Eş, Baba, Öğrenci, Öğretmen!!
 [![Website](https://img.shields.io/website?label=karaltan.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://karaltan.wordpress.com)
