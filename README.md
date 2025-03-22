@@ -3,9 +3,9 @@
 <!-- **karaltan/karaltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working AS A TEACHER in Sabancı M.TA.L http://sabancimtal.meb.k12.tr/
+- 🔭 I’m looking for help with {Ai}
 - 🌱 I’m currently learning {Ai}
-- 🤔 I’m looking for help with {Ai}
+- 🤔 I'm Phd student ?!
 
 ## Eş, Baba, Öğrenci, Öğretmen!!
 [![Website](https://img.shields.io/website?label=karaltan.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://karaltan.wordpress.com)
